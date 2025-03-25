@@ -30,7 +30,7 @@ const Main = () => {
 
     {!showresult? <>
       <div className="greet">
-          <p> <span>Hello Sam .</span></p>
+          <p> <span>Hello User .</span></p>
           <p>How Can I Help You  Today?</p>
         </div>
         <div className="cards">
